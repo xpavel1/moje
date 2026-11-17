@@ -20,10 +20,10 @@
       "package": "com.xpavel.ppp"
     },
     "web": {
-      "favicon": "./assets/favicon.png",
+      "favicon": "./assets/favicon.png"},
     "extra": {
       "eas": {
-        "projectId": "5fb32182-bfdd-45b4-ba71-c266722a5394"}}
+        "projectId": "5fb32182-bfdd-45b4-ba71-c266722a5394"}
     }
   }
 }
